@@ -12,9 +12,11 @@
 
 - 🌱 I’m currently learning **DSA, Kotlin, Tensorflow, GCP**
 
-- 📝 I sometimes write articles on [https://dev.to/hyperwoo](https://dev.to/hyperwoo)
+- 📝 I sometimes write articles on [dev.to/hyperwoo](https://dev.to/hyperwoo)
 
 - 📫 How to reach me **harshnimadia@gmail.com**
+
+- 🌐 Machine Learning Website - [Project↗️](https://sites.google.com/view/harsh-kumar/home)
 
 - ⚡ Fun fact **SAB MOHH MAYA HA!**
 
