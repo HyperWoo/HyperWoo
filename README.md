@@ -1,6 +1,6 @@
 [![@hyper's Holopin board](https://holopin.me/hyper)](https://holopin.io/@hyper)
 
-<h1 align="center">I'm Harsh Chuadhary</h1>
+<h1 align="center">I'm Harsh Chaudhary</h1>
 <h3 align="center">Hailing from Ghaziabad, Harsh Chaudhary (HyperWoo) is a UI/UX, Deep Learning, and Android Developer with a special place for Python in his heart. Along with pursuing his B.Tech (CSE - Data Science) at ABESEC, his past experiences range from Machine Learning, Deep Learning, and Web development.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif"></img>
 
