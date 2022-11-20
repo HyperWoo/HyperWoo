@@ -22,8 +22,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harsh-chaudhary-a4b787229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-chaudhary-a4b787229" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hoostax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hoostax" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harsh-chaudhary-a4b787229" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-chaudhary-a4b787229" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/hoostax" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hoostax" height="30" width="40" /></a>
 <a href="https://dev.to/hyperwoo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hyperwoo" height="30" width="40" /></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/865362b7-5b46-42ce-8ad8-30c47e21a94c" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="hyperwoo" height="30" width="30" /></a>
 </p>
