@@ -10,8 +10,6 @@
 
 - 🔭 I’m currently working on **Full stack Development**
 
-- 🌱 I’m currently learning **DSA, Kotlin, Tensorflow, GCP**
-
 - 📝 I sometimes write articles on [dev.to/hyperwoo](https://dev.to/hyperwoo)
 
 - ⭐ Personal Website - [Portfolio↗️](https://hyperwoo.github.io/)
