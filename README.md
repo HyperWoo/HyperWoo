@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **harshnimadia@gmail.com**
 
-- ⚡ Fun fact - **SAB MOHH MAYA HA!**
+- ⚡ Hire Me - **YOU WON'T BE DISAPPOINTED!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
