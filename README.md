@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **harshnimadia@gmail.com**
 
-- ⚡ Hire Me - **YOU WON'T BE DISAPPOINTED!**
+- ⚡ Hire Me - **Let him cook!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
